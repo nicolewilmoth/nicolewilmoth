@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolewilmoth
-- 👀 I’m interested in design app + websites
+- 👀 I’m interested in designing apps + websites
 - 🌱 I’m currently learning git, c#, and much more
 - 💞️ I’m looking to collaborate on anything :]
 - 📫 How to reach me ... 
