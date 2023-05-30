@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolewilmoth
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Vue, PHP, Laravel, Blade, & Inertia.js
 - 🎨 I like to dabble in graphic design
 
